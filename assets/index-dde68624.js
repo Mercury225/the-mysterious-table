@@ -21832,19 +21832,19 @@ Jt.add(er);
 Jt.add(er.target);
 const bi = new no(),
   ao = bi.load(
-    "/the_mysterious_table/table_textures/Stone_Path_007_basecolor.jpg"
+    "/the-mysterious-table/table_textures/Stone_Path_007_basecolor.jpg"
   ),
   oo = bi.load(
-    "/the_mysterious_table/table_textures/Stone_Path_007_normal.jpg"
+    "/the-mysterious-table/table_textures/Stone_Path_007_normal.jpg"
   ),
   Gf = bi.load(
-    "/the_mysterious_table/table_textures/Stone_Path_007_height.png"
+    "/the-mysterious-table/table_textures/Stone_Path_007_height.png"
   ),
   lo = bi.load(
-    "/the_mysterious_table/table_textures/Stone_Path_007_roughness.jpg"
+    "/the-mysterious-table/table_textures/Stone_Path_007_roughness.jpg"
   ),
   co = bi.load(
-    "/the_mysterious_table/table_textures/Stone_Path_007_ambientOcclusion.jpg"
+    "/the-mysterious-table/table_textures/Stone_Path_007_ambientOcclusion.jpg"
   ),
   Vf = [ao, oo, Gf, lo, co];
 Vf.forEach((s) => {
@@ -21891,16 +21891,16 @@ Jt.add(ho);
 const Wf = new Zi(5, 5),
   rr = new no(),
   Xf = rr.load(
-    "/the_mysterious_table/floor_textures/Concrete_Muddy_001_BaseColor.jpg"
+    "/the-mysterious-table/floor_textures/Concrete_Muddy_001_BaseColor.jpg"
   ),
   qf = rr.load(
-    "/the_mysterious_table/floor_textures/Concrete_Muddy_001_Normal.jpg"
+    "/the-mysterious-table/floor_textures/Concrete_Muddy_001_Normal.jpg"
   ),
   $f = rr.load(
-    "/the_mysterious_table/floor_textures/Concrete_Muddy_001_AmbientOcclusion.jpg"
+    "/the-mysterious-table/floor_textures/Concrete_Muddy_001_AmbientOcclusion.jpg"
   ),
   Yf = rr.load(
-    "/the_mysterious_table/floor_textures/Concrete_Muddy_001_Roughness.jpg"
+    "/the-mysterious-table/floor_textures/Concrete_Muddy_001_Roughness.jpg"
   );
 const Tt = new eo();
 Tt.map = Xf;
